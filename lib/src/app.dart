@@ -1,7 +1,10 @@
+///// Everything the package function start from this file.
+
 import 'package:fluent_ui/fluent_ui.dart';
 import 'package:flutter/cupertino.dart' show CupertinoScrollbar;
 import 'package:flutter/material.dart' as m;
 import 'package:flutter_localizations/flutter_localizations.dart'
+    ///// 'show': word meaning pick specific classes you want to be visible without anything else from the library /////
     show
         GlobalMaterialLocalizations,
         GlobalWidgetsLocalizations,
